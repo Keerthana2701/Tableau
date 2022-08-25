@@ -7,3 +7,6 @@ To create a workflow in Tableau Prep builder using various aggragations,joins, f
 After publishing to the server, other users can use this workflow by giving insert flow in tableau prep.
 ![image](https://user-images.githubusercontent.com/67209958/186780979-d90fc708-4b84-4918-bf39-922028ac4c25.png)
 
+
+Insert from either local files or from server.
+
